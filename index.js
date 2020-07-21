@@ -4,6 +4,10 @@ const bodyParser = require('body-parser')
 
 const engine_path = './bin/engines/stockfish/stockfish_20011801_x64'
 const port = 3666
+let lastRes = null
+let lastReq = null
+let fullData = ''
+let goCmd = false
 
 main()
 
@@ -32,9 +36,18 @@ function main() {
             return
         }
 
-        OnServerCmd(res, engine, req.body.content)
+        if (lastRes) {
+            lastRes.status(200).json({
+                response: null,
+                request: lastReq
+            })
+    
+            lastRes = null
+        }
 
-        res.send('ok')
+        lastReq = req.body
+
+        OnServerCmd(res, engine, req.body.content)
     })
 
     server.listen(port)
@@ -43,15 +56,53 @@ function main() {
 }
 
 function sendCmd(engine, cmd) {
+    const cmds = cmd.split(' ')
+    if (typeof cmds.length != 'undefined') { 
+        if (cmds.length > 0) {
+            goCmd = (cmds[0] == 'go')
+        }
+    }
+
     console.log(cmd)
     engine.stdin.write(`${cmd}\n`)
 }
 
 function OnEngineData(engine, data) {
-    console.log(data)
+    let sendData = true
+
+    fullData += data
+
+    if (goCmd) {
+        sendData = false
+
+        if (data.includes('bestmove ')) {
+            sendData = true
+        }
+    }
+
+    if (!sendData) {
+        return
+    }
+
+    sendData = false
+
+    console.log(fullData)
+
+    if (lastRes) {
+        lastRes.send(JSON.stringify({
+            response: fullData,
+            request: lastReq
+        }))
+
+        lastRes = null
+    }
+
+    fullData = ''
 }
 
 function OnServerCmd(res, engine, cmd) {
+    lastRes = res
+
     console.log(`Server received cmd: ${cmd}`)
     sendCmd(engine, cmd)
 }

@@ -1,0 +1,189 @@
+<div class="vertical-move-list-component" style="height: 100%;"><div><div class="vertical-move-list-notation-vertical"><span class="vertical-move-list-column vertical-move-list-num"><span>1.</span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  e4
+
+  <!----> <!----></span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  d5
+
+  <!----> <!----></span></span> <span class="move-timestamps-component vertical-move-list-column vertical-move-list-timestamps"><span class="move-timestamp-component move-timestamp-white move-timestamps-white"><span class="move-timestamp-bar" style="right: 24px; width: 0.255102%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">0.1</span></span> <span class="move-timestamp-component move-timestamp-black move-timestamps-black"><span class="move-timestamp-bar" style="right: 24px; width: 0.255102%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">0.1</span></span></span></div><div class="vertical-move-list-notation-vertical vertical-move-list-odd"><span class="vertical-move-list-column vertical-move-list-num"><span>2.</span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  exd5
+
+  <!----> <!----></span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  Qxd5
+
+  <!----> <!----></span></span> <span class="move-timestamps-component vertical-move-list-column vertical-move-list-timestamps"><span class="move-timestamp-component move-timestamp-white move-timestamps-white"><span class="move-timestamp-bar" style="right: 24px; width: 4.59184%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">1.8</span></span> <span class="move-timestamp-component move-timestamp-black move-timestamps-black"><span class="move-timestamp-bar" style="right: 24px; width: 9.43878%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">3.7</span></span></span></div><div class="vertical-move-list-notation-vertical"><span class="vertical-move-list-column vertical-move-list-num"><span>3.</span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  Nc3
+
+  <!----> <!----></span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  Qd8
+
+  <!----> <!----></span></span> <span class="move-timestamps-component vertical-move-list-column vertical-move-list-timestamps"><span class="move-timestamp-component move-timestamp-white move-timestamps-white"><span class="move-timestamp-bar" style="right: 24px; width: 0.765306%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">0.3</span></span> <span class="move-timestamp-component move-timestamp-black move-timestamps-black"><span class="move-timestamp-bar" style="right: 24px; width: 1.02041%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">0.4</span></span></span></div><div class="vertical-move-list-notation-vertical vertical-move-list-odd"><span class="vertical-move-list-column vertical-move-list-num"><span>4.</span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  d4
+
+  <!----> <!----></span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  Nf6
+
+  <!----> <!----></span></span> <span class="move-timestamps-component vertical-move-list-column vertical-move-list-timestamps"><span class="move-timestamp-component move-timestamp-white move-timestamps-white"><span class="move-timestamp-bar" style="right: 24px; width: 2.04082%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">0.8</span></span> <span class="move-timestamp-component move-timestamp-black move-timestamps-black"><span class="move-timestamp-bar" style="right: 24px; width: 0.255102%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">0.1</span></span></span></div><div class="vertical-move-list-notation-vertical"><span class="vertical-move-list-column vertical-move-list-num"><span>5.</span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  Nf3
+
+  <!----> <!----></span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  Bg4
+
+  <!----> <!----></span></span> <span class="move-timestamps-component vertical-move-list-column vertical-move-list-timestamps"><span class="move-timestamp-component move-timestamp-white move-timestamps-white"><span class="move-timestamp-bar" style="right: 24px; width: 2.80612%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">1.1</span></span> <span class="move-timestamp-component move-timestamp-black move-timestamps-black"><span class="move-timestamp-bar" style="right: 24px; width: 1.78571%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">0.7</span></span></span></div><div class="vertical-move-list-notation-vertical vertical-move-list-odd"><span class="vertical-move-list-column vertical-move-list-num"><span>6.</span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  Be2
+
+  <!----> <!----></span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  e6
+
+  <!----> <!----></span></span> <span class="move-timestamps-component vertical-move-list-column vertical-move-list-timestamps"><span class="move-timestamp-component move-timestamp-white move-timestamps-white"><span class="move-timestamp-bar" style="right: 24px; width: 2.80612%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">1.1</span></span> <span class="move-timestamp-component move-timestamp-black move-timestamps-black"><span class="move-timestamp-bar" style="right: 24px; width: 2.55102%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">1.0</span></span></span></div><div class="vertical-move-list-notation-vertical"><span class="vertical-move-list-column vertical-move-list-num"><span>7.</span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  Bg5
+
+  <!----> <!----></span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  Be7
+
+  <!----> <!----></span></span> <span class="move-timestamps-component vertical-move-list-column vertical-move-list-timestamps"><span class="move-timestamp-component move-timestamp-white move-timestamps-white"><span class="move-timestamp-bar" style="right: 24px; width: 4.33673%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">1.7</span></span> <span class="move-timestamp-component move-timestamp-black move-timestamps-black"><span class="move-timestamp-bar" style="right: 24px; width: 3.82653%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">1.5</span></span></span></div><div class="vertical-move-list-notation-vertical vertical-move-list-odd"><span class="vertical-move-list-column vertical-move-list-num"><span>8.</span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  O-O
+
+  <!----> <!----></span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  c6
+
+  <!----> <!----></span></span> <span class="move-timestamps-component vertical-move-list-column vertical-move-list-timestamps"><span class="move-timestamp-component move-timestamp-white move-timestamps-white"><span class="move-timestamp-bar" style="right: 24px; width: 3.82653%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">1.5</span></span> <span class="move-timestamp-component move-timestamp-black move-timestamps-black"><span class="move-timestamp-bar" style="right: 24px; width: 5.35714%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">2.1</span></span></span></div><div class="vertical-move-list-notation-vertical"><span class="vertical-move-list-column vertical-move-list-num"><span>9.</span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  h3
+
+  <!----> <!----></span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  Bxf3
+
+  <!----> <!----></span></span> <span class="move-timestamps-component vertical-move-list-column vertical-move-list-timestamps"><span class="move-timestamp-component move-timestamp-white move-timestamps-white"><span class="move-timestamp-bar" style="right: 24px; width: 17.602%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">6.9</span></span> <span class="move-timestamp-component move-timestamp-black move-timestamps-black"><span class="move-timestamp-bar" style="right: 24px; width: 4.08163%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">1.6</span></span></span></div><div class="vertical-move-list-notation-vertical vertical-move-list-odd"><span class="vertical-move-list-column vertical-move-list-num"><span>10.</span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  Bxf3
+
+  <!----> <!----></span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  Nbd7
+
+  <!----> <!----></span></span> <span class="move-timestamps-component vertical-move-list-column vertical-move-list-timestamps"><span class="move-timestamp-component move-timestamp-white move-timestamps-white"><span class="move-timestamp-bar" style="right: 24px; width: 4.33673%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">1.7</span></span> <span class="move-timestamp-component move-timestamp-black move-timestamps-black"><span class="move-timestamp-bar" style="right: 24px; width: 0.255102%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">0.1</span></span></span></div><div class="vertical-move-list-notation-vertical"><span class="vertical-move-list-column vertical-move-list-num"><span>11.</span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  Re1
+
+  <!----> <!----></span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  O-O
+
+  <!----> <!----></span></span> <span class="move-timestamps-component vertical-move-list-column vertical-move-list-timestamps"><span class="move-timestamp-component move-timestamp-white move-timestamps-white"><span class="move-timestamp-bar" style="right: 24px; width: 4.33673%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">1.7</span></span> <span class="move-timestamp-component move-timestamp-black move-timestamps-black"><span class="move-timestamp-bar" style="right: 24px; width: 9.94898%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">3.9</span></span></span></div><div class="vertical-move-list-notation-vertical vertical-move-list-odd"><span class="vertical-move-list-column vertical-move-list-num"><span>12.</span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  Ne4
+
+  <!----> <!----></span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  Nxe4
+
+  <!----> <!----></span></span> <span class="move-timestamps-component vertical-move-list-column vertical-move-list-timestamps"><span class="move-timestamp-component move-timestamp-white move-timestamps-white"><span class="move-timestamp-bar" style="right: 24px; width: 19.898%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">7.8</span></span> <span class="move-timestamp-component move-timestamp-black move-timestamps-black"><span class="move-timestamp-bar" style="right: 24px; width: 3.31633%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">1.3</span></span></span></div><div class="vertical-move-list-notation-vertical"><span class="vertical-move-list-column vertical-move-list-num"><span>13.</span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  Bxe7
+
+  <!----> <!----></span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  Qxe7
+
+  <!----> <!----></span></span> <span class="move-timestamps-component vertical-move-list-column vertical-move-list-timestamps"><span class="move-timestamp-component move-timestamp-white move-timestamps-white"><span class="move-timestamp-bar" style="right: 24px; width: 5.86735%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">2.3</span></span> <span class="move-timestamp-component move-timestamp-black move-timestamps-black"><span class="move-timestamp-bar" style="right: 24px; width: 4.08163%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">1.6</span></span></span></div><div class="vertical-move-list-notation-vertical vertical-move-list-odd"><span class="vertical-move-list-column vertical-move-list-num"><span>14.</span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  Bxe4
+
+  <!----> <!----></span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  Nf6
+
+  <!----> <!----></span></span> <span class="move-timestamps-component vertical-move-list-column vertical-move-list-timestamps"><span class="move-timestamp-component move-timestamp-white move-timestamps-white"><span class="move-timestamp-bar" style="right: 24px; width: 2.04082%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">0.8</span></span> <span class="move-timestamp-component move-timestamp-black move-timestamps-black"><span class="move-timestamp-bar" style="right: 24px; width: 3.31633%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">1.3</span></span></span></div><div class="vertical-move-list-notation-vertical"><span class="vertical-move-list-column vertical-move-list-num"><span>15.</span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  Bd3
+
+  <!----> <!----></span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  Rad8
+
+  <!----> <!----></span></span> <span class="move-timestamps-component vertical-move-list-column vertical-move-list-timestamps"><span class="move-timestamp-component move-timestamp-white move-timestamps-white"><span class="move-timestamp-bar" style="right: 24px; width: 4.33673%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">1.7</span></span> <span class="move-timestamp-component move-timestamp-black move-timestamps-black"><span class="move-timestamp-bar" style="right: 24px; width: 4.59184%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">1.8</span></span></span></div><div class="vertical-move-list-notation-vertical vertical-move-list-odd"><span class="vertical-move-list-column vertical-move-list-num"><span>16.</span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  c3
+
+  <!----> <!----></span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  Qc7
+
+  <!----> <!----></span></span> <span class="move-timestamps-component vertical-move-list-column vertical-move-list-timestamps"><span class="move-timestamp-component move-timestamp-white move-timestamps-white"><span class="move-timestamp-bar" style="right: 24px; width: 2.29592%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">0.9</span></span> <span class="move-timestamp-component move-timestamp-black move-timestamps-black"><span class="move-timestamp-bar" style="right: 24px; width: 14.5408%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">5.7</span></span></span></div><div class="vertical-move-list-notation-vertical"><span class="vertical-move-list-column vertical-move-list-num"><span>17.</span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  Qb3
+
+  <!----> <!----></span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  Rd5
+
+  <!----> <!----></span></span> <span class="move-timestamps-component vertical-move-list-column vertical-move-list-timestamps"><span class="move-timestamp-component move-timestamp-white move-timestamps-white"><span class="move-timestamp-bar" style="right: 24px; width: 19.898%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">7.8</span></span> <span class="move-timestamp-component move-timestamp-black move-timestamps-black"><span class="move-timestamp-bar" style="right: 24px; width: 3.31633%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">1.3</span></span></span></div><div class="vertical-move-list-notation-vertical vertical-move-list-odd"><span class="vertical-move-list-column vertical-move-list-num"><span>18.</span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  Bc4
+
+  <!----> <!----></span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  Rh5
+
+  <!----> <!----></span></span> <span class="move-timestamps-component vertical-move-list-column vertical-move-list-timestamps"><span class="move-timestamp-component move-timestamp-white move-timestamps-white"><span class="move-timestamp-bar" style="right: 24px; width: 7.14286%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">2.8</span></span> <span class="move-timestamp-component move-timestamp-black move-timestamps-black"><span class="move-timestamp-bar" style="right: 24px; width: 4.08163%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">1.6</span></span></span></div><div class="vertical-move-list-notation-vertical"><span class="vertical-move-list-column vertical-move-list-num"><span>19.</span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  Re3
+
+  <!----> <!----></span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  Qf4
+
+  <!----> <!----></span></span> <span class="move-timestamps-component vertical-move-list-column vertical-move-list-timestamps"><span class="move-timestamp-component move-timestamp-white move-timestamps-white"><span class="move-timestamp-bar" style="right: 24px; width: 42.8571%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">16.8</span></span> <span class="move-timestamp-component move-timestamp-black move-timestamps-black"><span class="move-timestamp-bar" style="right: 24px; width: 4.08163%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">1.6</span></span></span></div><div class="vertical-move-list-notation-vertical vertical-move-list-odd"><span class="vertical-move-list-column vertical-move-list-num"><span>20.</span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  Rae1
+
+  <!----> <!----></span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  Qh6
+
+  <!----> <!----></span></span> <span class="move-timestamps-component vertical-move-list-column vertical-move-list-timestamps"><span class="move-timestamp-component move-timestamp-white move-timestamps-white"><span class="move-timestamp-bar" style="right: 24px; width: 15.3061%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">6.0</span></span> <span class="move-timestamp-component move-timestamp-black move-timestamps-black"><span class="move-timestamp-bar" style="right: 24px; width: 34.1837%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">13.4</span></span></span></div><div class="vertical-move-list-notation-vertical"><span class="vertical-move-list-column vertical-move-list-num"><span>21.</span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  Qxb7
+
+  <!----> <!----></span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  Ng4
+
+  <!----> <!----></span></span> <span class="move-timestamps-component vertical-move-list-column vertical-move-list-timestamps"><span class="move-timestamp-component move-timestamp-white move-timestamps-white"><span class="move-timestamp-bar" style="right: 24px; width: 27.8061%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">10.9</span></span> <span class="move-timestamp-component move-timestamp-black move-timestamps-black"><span class="move-timestamp-bar" style="right: 24px; width: 2.80612%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">1.1</span></span></span></div><div class="vertical-move-list-notation-vertical vertical-move-list-odd"><span class="vertical-move-list-column vertical-move-list-num"><span>22.</span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  Rg3
+
+  <!----> <!----></span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  Qd2
+
+  <!----> <!----></span></span> <span class="move-timestamps-component vertical-move-list-column vertical-move-list-timestamps"><span class="move-timestamp-component move-timestamp-white move-timestamps-white"><span class="move-timestamp-bar" style="right: 24px; width: 20.9184%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">8.2</span></span> <span class="move-timestamp-component move-timestamp-black move-timestamps-black"><span class="move-timestamp-bar" style="right: 24px; width: 67.3469%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">26.4</span></span></span></div><div class="vertical-move-list-notation-vertical"><span class="vertical-move-list-column vertical-move-list-num"><span>23.</span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  Rf1
+
+  <!----> <!----></span></span> <span class="vertical-move-list-column"><span class="move-text-component vertical-move-list-clickable"><!---->
+
+  Nf6
+
+  <!----> <!----></span></span> <span class="move-timestamps-component vertical-move-list-column vertical-move-list-timestamps"><span class="move-timestamp-component move-timestamp-white move-timestamps-white"><span class="move-timestamp-bar" style="right: 24px; width: 22.9592%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">9.0</span></span> <span class="move-timestamp-component move-timestamp-black move-timestamps-black"><span class="move-timestamp-bar" style="right: 24px; width: 26.5306%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">10.4</span></span></span></div><div class="vertical-move-list-notation-vertical vertical-move-list-odd"><span class="vertical-move-list-column vertical-move-list-num"><span>24.</span></span> <span class="vertical-move-list-column"><span class="move-text-component move-text-selected vertical-move-list-clickable"><!---->
+
+  b4
+
+  <!----> <!----></span></span> <!----> <span class="move-timestamps-component vertical-move-list-column vertical-move-list-timestamps"><span class="move-timestamp-component move-timestamp-white move-timestamps-white"><span class="move-timestamp-bar" style="right: 24px; width: 100%;"></span> <span class="move-timestamp-text" style="margin-left: calc(100% - 24px + 4px);">39.2</span></span> <!----></span></div></div></div>
