@@ -4,8 +4,11 @@ Chess cheater coded in Javascript to run on NodeJS and Chrome Extension
 How to use:
 
   $ git clone https://github.com/coelho-faminto/chess-cheater.git
+  
   $ cd chess-cheater
+  
   $ npm install
+  
   $ node index.js
  
  Go to Google Chrome brower or Opera and turn on the "Developer Mode" from the Extensions.
