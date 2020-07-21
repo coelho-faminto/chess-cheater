@@ -1,7 +1,9 @@
 const { spawn } = require('child_process')
-const express = require('express');
+const express = require('express')
+const bodyParser = require('body-parser')
 
 const engine_path = './bin/engines/stockfish/stockfish_20011801_x64'
+const port = 3666
 
 main()
 
@@ -12,19 +14,30 @@ function main() {
     engine.stdout.setEncoding('utf8');
     engine.stdout.on('data', data => OnEngineData(engine, data))
 
-    sendCmd(engine, 'isready')
+    server.use(function (req, res, next) {
+        res.header("Access-Control-Allow-Origin", "*")
+        res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept")
+        next()
+    })
+
+    server.use(bodyParser.json())
 
     server.get('/', (req, res) => {
-        if (typeof req.query.cmd == 'undefined') {
-            console.log(req.query.cmd)
+        res.send('ok')
+    })
+    server.post('/cmd', (req, res) => {
+        if (typeof req.body.content == 'undefined') {
+            console.log(req.body)
             res.send('Insuficient parameters')
             return
         }
 
-        OnServerCmd(res, engine, req.query.cmd)
+        OnServerCmd(res, engine, req.body.content)
 
         res.send('ok')
-    }).listen(8080);
+    })
+
+    server.listen(port)
 
     console.log('Server started');
 }
