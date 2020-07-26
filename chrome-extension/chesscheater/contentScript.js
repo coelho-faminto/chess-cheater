@@ -83,11 +83,35 @@ function drawMove(move, color) {
 
     const secondSquare = firstSquare.cloneNode(true);
 
-    const firstSquareTop = squareHeight * (8 - firstMove_rank);
-    const firstSquareLeft = squareWidth * (firstMove_column - 1);
+    let isInverted = false;
 
-    const secondSquareTop = squareHeight * (8 - secondMove_rank);
-    const secondSquareLeft = squareWidth * (secondMove_column - 1);
+    const game_board = document.getElementById('game-board');
+
+    if (typeof game_board != 'undefined') {
+        isInverted = game_board.classList.contains('flipped');
+    }
+
+    let firstSquareTop = 0;
+    let firstSquareLeft = 0;
+
+    let secondSquareTop = 0;
+    let secondSquareLeft = 0;
+
+    if (isInverted) {
+        firstSquareTop = squareHeight * (firstMove_rank - 1);
+        firstSquareLeft = squareWidth * (8 - firstMove_column);
+
+        secondSquareTop = squareHeight * (secondMove_rank - 1);
+        secondSquareLeft = squareWidth * (8 - secondMove_column);
+    }
+    else {
+        firstSquareTop = squareHeight * (8 - firstMove_rank);
+        firstSquareLeft = squareWidth * (firstMove_column - 1);
+    
+        secondSquareTop = squareHeight * (8 - secondMove_rank);
+        secondSquareLeft = squareWidth * (secondMove_column - 1);
+    }
+
 
     firstSquare.style.top = `${firstSquareTop}px`;
     firstSquare.style.left = `${firstSquareLeft}px`;
@@ -172,7 +196,8 @@ const sendCmd = (cmd, isPosition = true) => {
         },
         body: JSON.stringify({
             content: cmd,
-            index: 0
+            index: 0,
+            uid: 'api-key'
         })
     }).then(response => response.json()).then(data => {
         if (
