@@ -94,6 +94,17 @@ function sendCmd(engine, cmd) {
     if (typeof cmds.length != 'undefined') { 
         if (cmds.length > 0) {
             goCmd = (cmds[0] == 'go')
+
+            if (cmds[0] == 'position') {
+                if (lastRes) {
+                    lastRes.send(JSON.stringify({
+                        response: 'position ok',
+                        request: lastReq
+                    }))
+            
+                    lastRes = null
+                }
+            }
         }
     }
 

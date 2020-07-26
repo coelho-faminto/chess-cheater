@@ -213,6 +213,8 @@ const sendCmd = (cmd, isPosition = true) => {
 
         if (isPosition) {
             console.log('received response from position cmd')
+            //onMoveResponse(data.response)
+            sendCmd('go depth 8', false)
         }
         else {
             onMoveResponse(data.response)
@@ -225,7 +227,7 @@ const sendCmd = (cmd, isPosition = true) => {
     })
 
     if (isPosition) {
-        setTimeout(() => { sendCmd('go depth 8', false) }, 22)
+        //sendCmd('go depth 8', false)
     }
 }
 
